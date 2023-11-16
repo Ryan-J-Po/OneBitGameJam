@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{05EF95A3-4DE2-D09B-7C5B-1494D6EA7FC5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "OneBitGameJam",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
